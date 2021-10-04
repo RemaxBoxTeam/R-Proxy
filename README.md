@@ -13,9 +13,12 @@ Join US : https://t.me/RemaxBoxTeam
 
 # To run 
 Windows User:
+
 `git clone https://github.com/RemaxBoxTeam/R-Proxy.git`
+
 `python R-proxy.py`
 
 Linux & Termux User:
 `git clone https://github.com/RemaxBoxTeam/R-Proxy.git`
+
 `python3 R-proxy.py`
